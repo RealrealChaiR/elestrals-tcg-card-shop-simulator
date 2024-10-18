@@ -1,0 +1,1 @@
+Opponent discard XXX cards at random, draw YYY
