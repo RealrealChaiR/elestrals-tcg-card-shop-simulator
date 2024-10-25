@@ -1,1 +1,1 @@
-Negate XXX of opponent's wind element damage next turn
+This Sonicore’s Cast cannot be chained by Counter Runes. While this Sonicore is in Attack Position players cannot Cast Counter Runes.

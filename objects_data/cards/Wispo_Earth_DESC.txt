@@ -1,1 +1,1 @@
-Randomly swap XXX of opponent's field card
+This Specteris gets +1 Attack for each Suppressed Elestral on the field. When this Specteris enters battle with an Elestral you can Suppress that Elestral until the End Phase.

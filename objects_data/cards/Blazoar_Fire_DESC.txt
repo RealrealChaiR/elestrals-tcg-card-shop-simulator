@@ -1,1 +1,1 @@
-Fire element deals double damage this turn
+When an opponent Casts an Elestral you can Expend 1 Fire Spirit in order to give it -3 Attack until your next End Phase. If that Elestral’s Attack is reduced to 0 by this effect, it is destroyed.

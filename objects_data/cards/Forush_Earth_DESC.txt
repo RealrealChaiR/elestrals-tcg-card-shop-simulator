@@ -1,1 +1,1 @@
-Draw XXX card, then discard YYY card
+When a player Casts Ambrosia you can draw 2 cards.

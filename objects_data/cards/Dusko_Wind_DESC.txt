@@ -1,1 +1,1 @@
-Opponent cannot evolve for XXX turn
+When this Peagleam receives 1 or more Solar Spirit you can target an Elestral and set its base Attack to 0 until the End Phase.
