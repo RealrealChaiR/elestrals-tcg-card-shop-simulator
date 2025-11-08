@@ -1,0 +1,20 @@
+name: Publish Release Artifact
+on:
+  release:
+    types: [created, edited]
+permissions:
+  contents: write
+jobs:
+  Publish-Release-Artifact:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v5
+
+      - name: Create the Build Artifact
+        run: ./bin/export.sh
+
+      - name: Attach the Build Artifact to the Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: ./build/ElestralsShopMod.zip

@@ -2,9 +2,6 @@
 
 echo "Exporting Elestrals Shop Mod..."
 
-zip -r ElestralsShopMod.zip . \
-    -x .git/**\* \
-    -x export.sh \
-    -x TextureReplacer.dll
+zip -r ./build/ElestralsShopMod.zip ./BepInEx
 
 echo "Export Complete"
