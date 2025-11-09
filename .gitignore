@@ -1,3 +1,21 @@
-**.dll
+# Card Shop Simulator
+**.exe
+Card Shop Simulator*
+MonoBleedingEdge/
 
+# Mods
+
+*doorstop*
+BepInEx/*
+BepInEx/plugins/*
+!BepInEx/
+!BepInEx/plugins/
+!BepInEx/plugins/ArtExpander/
+!BepInEx/plugins/ArtExpander/**
+!BepInEx/plugins/TextureReplacer/
+!BepInEx/plugins/TextureReplacer/**
+**.dll
+**.log
+
+# Builds
 **.zip
