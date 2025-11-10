@@ -9,6 +9,8 @@ MonoBleedingEdge/
 BepInEx/*
 BepInEx/plugins/*
 !BepInEx/
+!BepInEx/config/ArtExpander.cfg
+!BepInEx/config/shaklin.TextureReplacer.cfg
 !BepInEx/plugins/
 !BepInEx/plugins/ArtExpander/
 !BepInEx/plugins/ArtExpander/**
